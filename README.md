@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning  **jQuery | Node.js**
+- 🌱 I’m currently learning  **React | Next.js**
 
 - 👨‍💻 All of my projects are available at [Repo](https://github.com/H3m4N-14?tab=repositories)
 
