@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | OpenSourceEnthusiast</h3>
 <br>
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Blockchain development**
 
 - 🌱 I’m currently learning  **React | Next.js**
 
